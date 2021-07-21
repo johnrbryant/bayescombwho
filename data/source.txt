@@ -1,0 +1,10 @@
+
+Calculated from data in the table
+"Prevalence of obesity among children and adolescents,
+BMI>+2 standard deviation above the median, crude
+Estimates by country, among children aged 5-19 years"
+in the online database "Global Health Observatory
+data repository" maintained by the WHO.
+Data downloaded on 28 August 2019.
+
+
